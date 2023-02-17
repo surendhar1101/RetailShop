@@ -1,0 +1,17 @@
+D:\project\RetailShop.Repository\bin\Debug\net6.0\RetailShop.Repository.deps.json
+D:\project\RetailShop.Repository\bin\Debug\net6.0\RetailShop.Repository.runtimeconfig.json
+D:\project\RetailShop.Repository\bin\Debug\net6.0\RetailShop.Repository.dll
+D:\project\RetailShop.Repository\bin\Debug\net6.0\RetailShop.Repository.pdb
+D:\project\RetailShop.Repository\obj\Debug\net6.0\RetailShop.Repository.csproj.AssemblyReference.cache
+D:\project\RetailShop.Repository\obj\Debug\net6.0\RetailShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\RetailShop.Repository\obj\Debug\net6.0\RetailShop.Repository.AssemblyInfoInputs.cache
+D:\project\RetailShop.Repository\obj\Debug\net6.0\RetailShop.Repository.AssemblyInfo.cs
+D:\project\RetailShop.Repository\obj\Debug\net6.0\RetailShop.Repository.csproj.CoreCompileInputs.cache
+D:\project\RetailShop.Repository\obj\Debug\net6.0\RetailShop.Repository.dll
+D:\project\RetailShop.Repository\obj\Debug\net6.0\refint\RetailShop.Repository.dll
+D:\project\RetailShop.Repository\obj\Debug\net6.0\RetailShop.Repository.pdb
+D:\project\RetailShop.Repository\obj\Debug\net6.0\RetailShop.Repository.genruntimeconfig.cache
+D:\project\RetailShop.Repository\obj\Debug\net6.0\ref\RetailShop.Repository.dll
+D:\project\RetailShop.Repository\bin\Debug\net6.0\RetailShop.Model.dll
+D:\project\RetailShop.Repository\bin\Debug\net6.0\RetailShop.Model.pdb
+D:\project\RetailShop.Repository\obj\Debug\net6.0\RetailShop.Repository.csproj.CopyComplete

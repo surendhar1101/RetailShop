@@ -1,0 +1,12 @@
+D:\project\RetailShop.Model\bin\Debug\net6.0\RetailShop.Model.deps.json
+D:\project\RetailShop.Model\bin\Debug\net6.0\RetailShop.Model.dll
+D:\project\RetailShop.Model\bin\Debug\net6.0\RetailShop.Model.pdb
+D:\project\RetailShop.Model\obj\Debug\net6.0\RetailShop.Model.csproj.AssemblyReference.cache
+D:\project\RetailShop.Model\obj\Debug\net6.0\RetailShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\RetailShop.Model\obj\Debug\net6.0\RetailShop.Model.AssemblyInfoInputs.cache
+D:\project\RetailShop.Model\obj\Debug\net6.0\RetailShop.Model.AssemblyInfo.cs
+D:\project\RetailShop.Model\obj\Debug\net6.0\RetailShop.Model.csproj.CoreCompileInputs.cache
+D:\project\RetailShop.Model\obj\Debug\net6.0\RetailShop.Model.dll
+D:\project\RetailShop.Model\obj\Debug\net6.0\refint\RetailShop.Model.dll
+D:\project\RetailShop.Model\obj\Debug\net6.0\RetailShop.Model.pdb
+D:\project\RetailShop.Model\obj\Debug\net6.0\ref\RetailShop.Model.dll

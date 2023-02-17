@@ -1,0 +1,17 @@
+D:\project\RetailShop.Service\bin\Debug\net6.0\RetailShop.Service.deps.json
+D:\project\RetailShop.Service\bin\Debug\net6.0\RetailShop.Service.dll
+D:\project\RetailShop.Service\bin\Debug\net6.0\RetailShop.Service.pdb
+D:\project\RetailShop.Service\bin\Debug\net6.0\RetailShop.Model.dll
+D:\project\RetailShop.Service\bin\Debug\net6.0\RetailShop.Model.pdb
+D:\project\RetailShop.Service\obj\Debug\net6.0\RetailShop.Service.csproj.AssemblyReference.cache
+D:\project\RetailShop.Service\obj\Debug\net6.0\RetailShop.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\RetailShop.Service\obj\Debug\net6.0\RetailShop.Service.AssemblyInfoInputs.cache
+D:\project\RetailShop.Service\obj\Debug\net6.0\RetailShop.Service.AssemblyInfo.cs
+D:\project\RetailShop.Service\obj\Debug\net6.0\RetailShop.Service.csproj.CoreCompileInputs.cache
+D:\project\RetailShop.Service\obj\Debug\net6.0\RetailShop.Service.csproj.CopyComplete
+D:\project\RetailShop.Service\obj\Debug\net6.0\RetailShop.Service.dll
+D:\project\RetailShop.Service\obj\Debug\net6.0\refint\RetailShop.Service.dll
+D:\project\RetailShop.Service\obj\Debug\net6.0\RetailShop.Service.pdb
+D:\project\RetailShop.Service\obj\Debug\net6.0\ref\RetailShop.Service.dll
+D:\project\RetailShop.Service\bin\Debug\net6.0\RetailShop.Repository.dll
+D:\project\RetailShop.Service\bin\Debug\net6.0\RetailShop.Repository.pdb
